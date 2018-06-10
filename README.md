@@ -1,2 +1,4 @@
 # hello-world
-AAAAAA
+AAAAA
+
+我是一个白痴？
